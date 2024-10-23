@@ -32,12 +32,6 @@ RUN apt-get install  -y libncurses5-dev
 RUN pip install -r requirements.txt 
 
 
-# Set aws configuration
-
-ENV AWS_ACCESS_KEY_ID=AKIA27XCPYJR3EI7X45T
-ENV AWS_SECRET_ACCESS_KEY=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
-ENV AWS_DEFAULT_REGION=ap-south-1
-
 # ENV PYTHONPATH=/vits_tts_app
 ENV PYTHONPATH="/app/TTS:/app/TTS/TTS:/app:coqpit:/app/Trainer"
 
