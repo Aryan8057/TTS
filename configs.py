@@ -1,0 +1,2 @@
+AUDIO_SAVE_PATH = "audios/"
+AUDIO_CLEAN_SAVE_PATH = "final/"

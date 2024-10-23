@@ -1,0 +1,25 @@
+{
+  "Hindi": {
+    "model_path": "./models/hindi_checkpoint_1790000-model.pth",
+    "config_path": "./models/hindi_checkpoint_1790000-config.json",
+    "speakers_path": "./models/hindi_checkpoint_1790000-speakers.pth",
+    "speakers": {
+      "Ravi": "Sanyam",
+      "Suresh": "Chamak",
+      "Priya": "mono_female_IITM",
+      "Pooja": "Vanisha"
+    }
+  },
+  "English": {
+    "model_path": "./models/english_checkpoint_1620000-model.pth",
+    "config_path": "./models/english_checkpoint_1620000-config.json",
+    "speakers_path": "./models/english_checkpoint_1620000-speakers.pth",
+    "speakers": {
+      "Alex": "sundip",
+      "Bob": "tejas",
+      "Jessica": "pallavi",
+      "Kristina": "manisha_sethi"
+    }
+  }
+}
+

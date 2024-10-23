@@ -1,0 +1,3 @@
+कंप्यूटिंग में, (मूल रूप से कंप्यूट यूनिफाइड डिवाइस आर्किटेक्चर) एक मालिकाना  समानांतर कंप्यूटिंग प्लेटफ़ॉर्म और एप्लिकेशन प्रोग्रामिंग इंटरफ़ेस (एपीआई) है जो सॉफ़्टवेयर को त्वरित सामान्य प्रयोजन प्रसंस्करण के लिए कुछ प्रकार की ग्राफिक्स प्रोसेसिंग इकाइयों (जीपीयू) का उपयोग करने की अनुमति देता है, एक दृष्टिकोण जीपीयू पर सामान्य प्रयोजन कंप्यूटिंग कहा जाता है।
+
+In computing, CUDA (originally Compute Unified Device Architecture) is a proprietary[1] parallel computing platform and application programming interface (API) that allows software to use certain types of graphics processing units (GPUs) for accelerated general-purpose processing, an approach called general-purpose computing on GPUs . 
