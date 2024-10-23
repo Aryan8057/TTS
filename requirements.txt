@@ -43,3 +43,4 @@ coqpit
 trainer
 torchaudio
 gradio
+fastapi
