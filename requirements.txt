@@ -165,3 +165,4 @@ websockets==12.0
 Werkzeug==3.0.4
 wheel==0.44.0
 yarl==1.16.0
+fastapi[all]
