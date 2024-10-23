@@ -139,7 +139,6 @@ soundfile
 soupsieve
 soxr
 starlette
-streamlit
 sympy
 tenacity
 tensorboard
