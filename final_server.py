@@ -1,4 +1,6 @@
-import asyncio
+import asyncio 
+import fastapi
+import pydantic
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 import os
