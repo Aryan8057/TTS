@@ -23,7 +23,6 @@ boto3
 uuid
 fsspec
 matplotlib
-numpy==1.22.0
 numba==0.57.0
 uvicorn
 fastapi
@@ -43,3 +42,4 @@ coqpit
 trainer
 torchaudio
 gradio
+numpy==1.24
